@@ -1,11 +1,5 @@
 /* main.css */
 html {
-    margin: 0;
-    padding: 0;
-    height: 100vh;
-    font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-    font-size: larger;
-    line-height: 1.6;
     background-image: url('ChiefKeef.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
