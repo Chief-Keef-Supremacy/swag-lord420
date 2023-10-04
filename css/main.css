@@ -1,4 +1,4 @@
-/* main.css (located in the 'css' folder) */
+/* main.css */
 body, html {
     margin: 0;
     padding: 0;
@@ -6,7 +6,7 @@ body, html {
     font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
     font-size: larger;
     line-height: 1.6;
-    background-image: url('/ChiefKeef.jpg'); 
+    background-image: url('/ChiefKeef.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -15,4 +15,8 @@ body, html {
 .Chief-keef {
     text-align: center;
     color: blue;
+}
+
+.center-text {
+    text-align: center;
 }
