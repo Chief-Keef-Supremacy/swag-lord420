@@ -1,17 +1,18 @@
 /* main.css */
-body, html {
+html {
     margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
+    padding: 0;
+    height: 100vh;
+    font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: larger;
+    line-height: 1.6;
     background-image: url('ChiefKeef.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
 }
 
-.Chief-keef {
+.chief-keef {
     text-align: center;
     color: Blue;
 }
