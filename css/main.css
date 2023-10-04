@@ -6,7 +6,7 @@ body, html {
     font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
     font-size: larger;
     line-height: 1.6;
-    background-image: url('ChiefKeef.jpg');
+    background-image: url('/ChiefKeef.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
