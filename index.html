@@ -16,22 +16,7 @@
     <link href="" rel="stylesheet"> 
 </head>
 <body>
-     <a href="#" id="copy-link">Copy This Link</a>
-
-    <script>
-        document.getElementById("copy-link").addEventListener("click", function(event) {
-            event.preventDefault();
-            const textToCopy = "https://chief-keef-supremacy.github.io/swag-lord420/C1/";
-            const textArea = document.createElement("textarea");
-            textArea.value = textToCopy;
-            document.body.appendChild(textArea);
-            textArea.select();
-            document.execCommand("copy");
-            document.body.removeChild(textArea);
-            alert("Link copied to clipboard: " + textToCopy);
-        });
-    </script>
-    
+  
     <audio controls>
         <source src="media/lovesosa.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
