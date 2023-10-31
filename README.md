@@ -5,4 +5,4 @@ Popbob sex dupe will not be leaked. Lil Dafty be dupin on runescape on november.
 
 My hand hurts from jerking off. Fill the jar john. Popbob merch coming soon. willy wigger kill dat. https://docs.google.com/document/d/1sUscq2xQL40aczowE5JiobmfhZnzj4bDqiP7teT4xO4/edit?usp=drivesdk . Jet fuel can’t melt steel beams, bouta smoke that 9/11 pack. George Washington was black "NewWaveGuru, droppin' knowledge and beats like it's hot! 🔥🎶 #ChiefKeefVibes".
 
-The realest cracka around is in west palm beach flordia but hes a neo-nazi so be careful all jews and ni-. The cia is currently gangstalking me to get me to smoke that mkultra pack, fuck all fat niggers.
+The realest cracka around is in west palm beach flordia but hes a neo-nazi so be careful all jews and ni-. The cia is currently gangstalking me to get me to smoke that mkultra pack, fuck all fat niggers. Scooter from 18828 Sky Blue Cir Germantown, MD  20874. United States hates Chris Chan and hopes he dies
